@@ -1,0 +1,82 @@
+"basics": {
+		"name": "Anant Kumar Mehra",
+		"label": "Student",
+		"picture": "https://avatars.githubusercontent.com/u/80854912?v=4",
+		"email": "2019kucp1050@iiitkota.ac.in",
+		"phone": "",
+		"summary": "Hello! I'm Anant Mehra, Presently, I'm completing my 3rd year of major in Computer Science and Engineering at IIIT Kota ( currently functioning at NIT Jaipur ). Concentrations in Computer Science and Engineering provide a broad knowledge of programming concepts. I have a great interest in competitive programming and I like to give coding contests. I've also qualified to the 1st phase of Tech Kriti Hackathon organised by IIT Kanpur. It was a two phase Hackathon. My model was on the topic Industrial Automation/IOT. IIITians Network: I along with my two friends from IIIT Guwahati and IIIT Gwalior have built a platform for connecting IIITians from all over India. we right now have 150+ Core members who work for IIITians Network. Our prime aim is to create India's largest Technical Community of Engineers. So we started with IIITs gradually we are also expanding into IITs and NITs. You can also checkout our website iiitiansnetwork.com for more information!",
+		"website": "",
+		"location": {
+			"address": "",
+			"postalCode": "",
+			"city": "Singrauli",
+			"countryCode": "India",
+			"region": "Madhya Pradesh"
+		},
+		"profiles": [{
+				"network": "Twitter",
+				"username": "AnantMehra13",
+				"url": "https://twitter.com/AnantMehra13"
+			},
+			{
+				"network": "Github",
+				"username": "anantmehra-iiitk",
+				"url": "https://gist.github.com/anantmehra-iiitk"
+			},
+			{
+				"network": "linkedin",
+				"username": "Anant Mehra",
+				"url": "https://www.linkedin.com/in/anant-mehra-626952190/"
+			},
+			
+		]
+	},
+	"work": [{
+		"company": "IIITians Network",
+		"position": "Founder and President",
+		"website": "www.iiitiansnetwork.com",
+		"startDate": "2020-01-29",
+		"endDate": "",
+		"summary": " IIITians Network is an autonomous community of students from all the Indian Institute of Information Technology. Our prime aim is to provide a platform for the exchange of information and resources between IIITians. We focus on rendering a better outreach to the events organized by clubs/societies of these institutes. We are encouraging brand IIITian and connecting students to the alumni by an Alumni Network. Our website aims to provide ampler knowledge about IIITs to the audience describing the culture and the environment developed by respective IIITians. There are special tools for JEE Aspirants like Rank and Predictor and Placements of all the IIITs on the website. With our projects, we develop an open-source learning environment.",
+		
+	}],
+	"volunteer": [{
+		"organization": "IIIT Kota Kernel",
+		"position": "Lead",
+		"website": "",
+		"startDate": "2021-07-01",
+		"endDate": "",
+		"summary": "",
+		"highlights": []
+	}],
+	"education": [{
+		"institution": "Indian Institute of Information technology,kota",
+		"area": "Engineering",
+		"studyType": "Bachelor (hons)",
+		"startDate": "2019-08-03",
+		"endDate": "",
+		"gpa": "",
+		"courses": [
+			"Computer Science & Engineering"
+		]
+	}],
+	"awards": [{
+		"title": "International Rank 601 in 18th NSO (2015-16)",
+		"awarder": "Science Olympiad Foundation",
+		"date": ""
+	}],
+	"publications": [{
+		"title": "",
+		"details": "",
+		"link": ""
+	}],
+	"skills": [{
+		"level": "Master",
+		"keywords": ["HTML", "CSS", "Javascript", "React", "C/C++", "Java", "OOPS", "DBMS"]
+	}],
+	"interests": [{
+		"name": "Sports",
+		"keywords": ["Tennis", "Cricket"]
+	}],
+	"references": []
+}
