@@ -6,10 +6,10 @@
 		"email": "2019kucp1050@iiitkota.ac.in",
 		"phone": "",
         "website": "",
-		"summary": "Hello! I'm Anant Mehra, Presently, I'm completing my 3rd year of major in Computer Science and Engineering at IIIT Kota ( currently functioning at NIT Jaipur ). Concentrations in Computer Science and Engineering provide a broad knowledge of programming concepts. I have a great interest in competitive programming and I like to give coding contests. I've also qualified to the 1st phase of Tech Kriti Hackathon organised by IIT Kanpur. It was a two phase Hackathon. My model was on the topic Industrial Automation/IOT. IIITians Network: I along with my two friends from IIIT Guwahati and IIIT Gwalior have built a platform for connecting IIITians from all over India. we right now have 150+ Core members who work for IIITians Network. Our prime aim is to create India's largest Technical Community of Engineers. So we started with IIITs gradually we are also expanding into IITs and NITs. You can also checkout our website iiitiansnetwork.com for more information!",
+		"summary": "Hello! I'm Anant Mehra, Presently, I'm completing my 3rd year of major in Computer Science and Engineering at IIIT Kota ( currently functioning at NIT Jaipur ). Concentrations in Computer Science and Engineering provide a broad knowledge of programming concepts. I have a great interest in competitive programming and I like to give coding contests.",
 		"location": {
-			"address": "---",
-			"postalCode": "---",
+			"address": "",
+			"postalCode": "",
 			"city": "Singrauli",
 			"countryCode": "India",
 			"region": "Madhya Pradesh"
@@ -72,7 +72,6 @@
 	"publications": [{
 		"title": "",
 		"details": "",
-		"link": ""
 	}],
 	"skills": [{
 		"level": "Master",
@@ -82,7 +81,7 @@
         "name": "Sketching",
         "name": "Photography",
         "name": "E-Gaming",
-		"name": "Sports",
+	"name": "Sports",
 		"keywords": ["Tennis", "Cricket"]
 	}],
 	"references": []
