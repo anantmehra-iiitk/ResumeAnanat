@@ -40,7 +40,7 @@
 		"company": "IIITians Network",
 		"position": "Founder and President",
 		"website": "www.iiitiansnetwork.com",
-		"startDate": "2020-08-04//Take care about Date Format",
+		"startDate": "2020-08-04",
 		"endDate": "2020-01-29",
 		"summary": "IIITians Network is an autonomous community of students from all the Indian Institute of Information Technology. Our prime aim is to provide a platform for the exchange of information and resources between IIITians. We focus on rendering a better outreach to the events organized by clubs/societies of these institutes. We are encouraging brand IIITian and connecting students to the alumni by an Alumni Network. Our website aims to provide ampler knowledge about IIITs to the audience describing the culture and the environment developed by respective IIITians. There are special tools for JEE Aspirants like Rank and Predictor and Placements of all the IIITs on the website. With our projects, we develop an open-source learning environment.",
 		"highlights": []
@@ -58,7 +58,7 @@
 		"area": "Engineering",
 		"studyType": "Bachelor (hons)",
 		"startDate": "2019-08-03",
-		"endDate": "2023-06-29",
+		"endDate": "Present",
 		"gpa": "",
 		"courses": [
 			"Computer Science & Engineering"
